@@ -1,0 +1,9 @@
+{
+    "screen_width": "1280",
+    "screen_height": "720",
+    "img_file": "corn_dog.png",
+    "music_file": "demo_dubstep.mp3",
+    "trigger_file": "demo_triggers.log",
+    "fps": 60,
+    "play_speed": 1.0
+}
